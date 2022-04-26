@@ -4,7 +4,7 @@
 
 Contact: [Telegram](https://t.me/greymatter_bots)
 
-A stable telegram bot to get restricted messages with custom thumbnail support , made by @MaheshChauhan. 
+A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan. 
 
 - works for both public and private channels
 - Custom thumbnail support for Pvt medias
@@ -35,7 +35,7 @@ BOT TOKEN: @Botfather on telegram
   
 Deploy your bot on `heroku`
 
-- Fork the repo, and star it
+- Star the repo, and fork it
 - create app in heroku
 - go to settings of app>> config vars>> add all variables
 - add buildpacks
