@@ -1,16 +1,13 @@
 {
-    "name": "Save Restricted Bot",
-    "description": "Save Restricted content",
+    "name": "Save Restricted",
+    "description": "Save restricted content",
     "logo": "",
     "keywords": [
-        "A",
-        "telegram",
-        "save restricted",
-        "bot"
+        "save restricted bot",
     ],
-    "repository": "https://github.com/greymatter658/SaveRestrictedContentBot",
+    "repository": "https://github.com/NOF34R/SaveRestrictedContentBot",
     "website": "",
-    "success_url": "https://t.me/greymatter_bots",
+    "success_url": "https://t.me/DroneBots",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
@@ -24,16 +21,16 @@
             "description": "Bot token, get it from @BotFather.",
             "value": ""
         },
-        "AUTH": {
-            "description": "owner user id. who will get access to do batch command",
+        "SESSION": {
+            "description": "pyrogram string session.",
             "value": ""
         },
-        "SESSION": {
-            "description": "pyrogram string session. Get from- https://replit.com/@SpEcHiDe/GenerateStringSession",
+        "AUTH": {
+            "description": "USER ID of bot owner",
             "value": ""
         },
         "FORCESUB": {
-            "description": "Public Channel username without using '@' to forcesub.",
+            "description": "Public channel username without using '@'.",
             "value": ""
         }
     },
