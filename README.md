@@ -2,7 +2,7 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/greymatter_bots)
+Contact: [Telegram](https://t.me/MaheshChauhan)
 
 A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan. 
 
@@ -32,6 +32,8 @@ PYROGRAM SESSION: [SessionGen Bot](https://t.me/SessionStringGeneratorZBot) or [
 BOT TOKEN: @Botfather on telegram
 
 # Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
   
 Deploy your bot on `heroku`
 
